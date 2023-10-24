@@ -70,10 +70,15 @@ section{
 }
 
 .sub-section{
-    background-color: #c8e1ac;
+    background-color: #d0f7a4;
 }
 
 h1{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+h2{
     font-size: 1.23em;
 }
 
